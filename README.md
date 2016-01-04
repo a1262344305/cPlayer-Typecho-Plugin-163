@@ -21,7 +21,9 @@ Download ZIP, 解压，将其中的 cPlayer 文件夹放入你博客中的 /usr/
 其中：
 
 “skin”的值可为white或空，为white时是白色皮肤，为空或其他值时是黑色皮肤
+
 “id”的值为网易云音乐的歌曲id
+
 “lrc”的值可为true或false，分别对应歌词的开或关，为空或其他值时是关
 
 例如：
