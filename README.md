@@ -11,7 +11,7 @@ A typecho plugin for the beautiful html5 music player https://github.com/Copay/c
 ## 安装方法
 安装前请确保cache目录可写（保存缓存用，否则会让博客加载缓慢）
 
-Download ZIP, 解压，将其中的 cPlayer 文件夹放入你博客中的 /usr/plugins 目录，在后台启用即可
+Download ZIP, 解压，将其中的 cPlayer163 文件夹放入你博客中的 /usr/plugins 目录，在后台启用即可
 
 ## 使用方法
 在文章编辑页面中，在要插入播放器的部分点击工具栏按钮或输入以下代码：
